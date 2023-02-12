@@ -19,28 +19,7 @@
     align-items: center;
     border:1px solid #000;
 }
-/* .container .box:before{
-    content:"";
-    position:absolute;
-    top:-2px;
-    left:-2px;
-    right:-2px;
-    bottom:-2px;
-    background:rgb(16, 4, 82);
-    transform:skew(2deg,2deg);
-    z-index:-1;
 
-} */
-
-/* .container .box:after{
-    content:"";
-    position:absolute;
-    top:0;
-    left:0;
-    width:50%;
-    height:100%;
-    background:rgba(255,255,255,.05);
-} */
 .box .items button{
     position: absolute;
     top:0;
